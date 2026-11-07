@@ -57,3 +57,4 @@ npm run dev
 Other commands: `npm test`, `npm run typecheck`, `npm run lint`, `npm run build`.
 
 For a real deployment, follow the [deployment guide](docs/deployment.md). Vercel preview URLs don't support logging in or creating pastes.
+# pastekar
